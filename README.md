@@ -38,3 +38,68 @@ If you find this project useful, don't forget to give it a ⭐!
 ## Billing Software – Project Screenshot
 
 ![Billing Software Screenshot](Bill.PNG)
+
+
+🧾 Billing Software
+
+A Python-based desktop Billing Software application developed using Tkinter GUI. This application helps shops manage customer billing, calculate product prices, apply taxes, and generate bills quickly and efficiently.
+
+📸 Project Screenshot
+
+"Billing Software Screenshot" (Bill.PNG)
+
+✨ Features
+
+- Customer Details: Enter customer name, phone number, and bill number.
+- Product Management: Select products from different categories.
+- Medical Products: Sanitizer, Mask, Hand Gloves, Syrup, Cream, and Thermal Gun.
+- Grocery Items: Rice, Food Oil, Wheat, Spices, Flour, and Maggi.
+- Cold Drinks: Sprite, Mineral Water, Juice, Coke, Lassi, and Mountain Dew.
+- Automatic Calculation: Calculate product totals and final billing amounts.
+- Tax Calculation: Apply medical, grocery, and cold-drink taxes.
+- Bill Generation: Generate and display customer bills.
+- Bill Search: Search for customer bills using bill details.
+- Clear & Exit: Clear entered information and close the application.
+
+🛠️ Technologies Used
+
+- Python
+- Tkinter (GUI)
+- OS Module
+- Messagebox
+
+📂 Project Structure
+
+Billing-Software/
+│
+├── billing system.py
+├── Bill.PNG
+└── README.md
+
+⚙️ Installation & Setup
+
+1. Clone the repository
+
+git clone YOUR_GITHUB_REPOSITORY_URL
+
+2. Open the project folder
+
+cd Billing-Software
+
+3. Run the application
+
+python "billing system.py"
+
+Make sure Python and Tkinter are installed on your system.
+
+🎯 Project Objective
+
+The main objective of this project is to simplify the billing process for small shops and businesses by providing an easy-to-use graphical interface for customer details, product selection, price calculation, tax calculation, and bill generation.
+
+👨‍💻 Developer
+
+Developed as a Python GUI-based project to demonstrate practical programming, graphical user interface design, and billing system implementation.
+
+---
+
+⭐ If you find this project useful, consider giving this repository a star!
