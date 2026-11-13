@@ -34,3 +34,7 @@ The main objective of this project is to simplify shop billing operations, reduc
 Developed as a Python GUI-based project for practical application and learning.
 
 If you find this project useful, don't forget to give it a ⭐!
+
+## Billing Software – Project Screenshot
+
+![Billing Software Screenshot](Bill.PNG)
