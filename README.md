@@ -100,6 +100,6 @@ The main objective of this project is to simplify the billing process for small 
 
 Developed as a Python GUI-based project to demonstrate practical programming, graphical user interface design, and billing system implementation.
 
----
+---,
 
 ⭐ If you find this project useful, consider giving this repository a star!
